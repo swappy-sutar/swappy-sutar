@@ -85,7 +85,7 @@
   </a>
 </p>
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px> </picture> Database
+### ⚙️ Database Database
  <p align="center">
   &emsp;
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
