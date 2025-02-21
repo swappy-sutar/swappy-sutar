@@ -13,9 +13,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
+<br>
 - :school: I graduated with a `B.Tech in Information Technology` in 2023.  
 - :technologist: I specialize in `Blockchain Development`, `Full Stack Development`, and `Smart Contracts Development`.  
 - :computer: I have experience working with `Solidity`, `Node.js`,`React.js`, `Web3.js`, `Ethers.js`, `Hardhat`, `Truffle`, and `Ethereum Blockchain`.  
@@ -36,7 +34,6 @@
 	<a href="https://www.linkedin.com/in/swappy-sutar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/swappy_sutar"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
 
 ## 🛠️ My Skills
 
