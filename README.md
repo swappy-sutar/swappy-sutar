@@ -136,7 +136,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swappy-sutar&theme=tokyonight_duo" alt="swappy-sutar" /></p>
 
 </details>
   
@@ -181,7 +181,7 @@
 	<a href="https://github.com/swappy-sutar/Solidity_journey2024">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Solidity_journey2024&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/javaScript_2023">
+	<a href="https://github.com/swappy-sutar/javaScript_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=javaScript_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
       <a href="https://github.com/swappy-sutar/swappy-sutar">
