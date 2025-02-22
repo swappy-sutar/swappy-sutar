@@ -192,5 +192,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/swappy-sutar/swappy-sutar/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/swappy-sutar/swappy-sutar/blob/main/github-user-contribution%20(1).svg?" alt = "Snake Game"/>
 </p>
