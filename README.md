@@ -47,7 +47,7 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/solidity/" target="_blank"> 
+  <a href="https://soliditylang.org/" target="_blank"> 
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%2300599C.svg?style=plastic&logo=solidity&logoColor=white">
   </a> 
   &emsp;
