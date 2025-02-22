@@ -113,11 +113,9 @@
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Remix IDE" src="https://img.shields.io/badge/Remix%20IDE-%2398268D.svg?style=plastic&logo=remix&logoColor=white" /></a>
+    <a href="https://remix.ethereum.org/"><img alt="Remix IDE" src="https://img.shields.io/badge/Remix%20IDE-%2398268D.svg?style=plastic&logo=remix&logoColor=white" /></a>
 </p>
 
 <br> 
