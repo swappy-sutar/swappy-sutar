@@ -15,8 +15,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-- :school: I graduated with a `B.Tech in Information Technology` in 2023.  
+ 
 - :technologist: I specialize in `Blockchain Development`, `Full Stack Development`, and `Smart Contracts Development`.  
 - :computer: I have experience working with `Solidity`, `Node.js`,`React.js`, `Web3.js`, `Ethers.js`, `Hardhat`, `Truffle`, and `Ethereum Blockchain`.  
 - :student: I’m continuously learning `Blockchain Development`, `Web Development`.
