@@ -177,8 +177,8 @@
 	<a href="https://github.com/swappy-sutar/Solidity_journey2024">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Solidity_journey2024&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/swappy-sutar/javaScript_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=javaScript_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=MessageHub-Realtime_Chat_Application_MERN&theme=tokyonight" alt="GitHub Stats" />
     	</a>
       <a href="https://github.com/swappy-sutar/swappy-sutar">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=swappy-sutar&theme=tokyonight" alt="GitHub Stats" />
