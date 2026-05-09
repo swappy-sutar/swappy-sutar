@@ -16,7 +16,7 @@
 
 <br><br>
  
-- :technologist: I specialize in `Blockchain Development`, `Full Stack Development`, and `Smart Contracts Development`.  
+- :technologist: I specialize in `Backend Development`, `Full Stack Development`, and `Smart Contracts Development`.  
 - :computer: I have experience working with `Solidity`, `Node.js`,`React.js`, `Web3.js`, `Ethers.js`, `Hardhat`, `Truffle`, and `Ethereum Blockchain`.  
 - :student: I’m continuously learning `Blockchain Development`, `Web Development`.
 - :nerd_face: Passionate about `learning new technologies` and `building innovative projects`.  
