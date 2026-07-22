@@ -24,28 +24,33 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px"/>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"/>
 
 ```typescript
-const swapnil = {
-  name: "Swapnil Sutar",
-  role: "Full Stack & Backend Developer",
-  location: "India 🇮🇳",
-  stack: ["Node.js", "React.js", "Express.js", "MongoDB"],
-  currentlyLearning: ["System Design", "DevOps", "Web3"],
-  openTo: "Full Stack & Backend Opportunities",
-  contact: "Sutarswapnil322@gmail.com",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+const swapnil: Developer = {
+  name      : "Swapnil Sutar",
+  title     : "Full Stack & Backend Developer",
+  location  : "Maharashtra, India 🇮🇳",
+  languages : ["JavaScript", "TypeScript", "Python", "Solidity"],
+  frontend  : ["React.js", "TailwindCSS", "Redux"],
+  backend   : ["Node.js", "Express.js", "NestJS", "REST APIs"],
+  databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  tools     : ["Docker", "Git", "Prisma", "Socket.io"],
+  learning  : ["System Design", "DevOps", "AWS", "Microservices"],
+  openTo    : "Full Stack & Backend Opportunities 🚀",
+  passion   : "Building scalable products that solve real problems",
+  funFact   : "I debug with console.log — and I own it 😄",
 };
 ```
 
-- 🚀 I specialize in **Backend Development** & **Full Stack Development**
-- 💡 Experienced with **Node.js**, **React.js**, **MongoDB**, **Express.js**
-- 🔗 Also skilled in **Blockchain/Web3** — Solidity, Hardhat, Web3.js
-- 🌱 Currently exploring **System Design**, **DevOps**, and **Cloud**
-- 💼 Open for **job opportunities** in Full Stack & Backend Development
-- 📧 Reach me at [Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com)
-- 📱 **+91 9359248899** &nbsp;|&nbsp; 🌐 [My Portfolio](https://er-swappy.vercel.app/)
+<br/>
+
+🚀 &nbsp;Specialized in **scalable backend systems** & full-stack web apps  
+⚡ &nbsp;Built apps with **real-time features** using Socket.io & WebSockets  
+⛓️ &nbsp;Hands-on with **Blockchain/Web3** — Solidity, Hardhat, Ethers.js  
+☁️ &nbsp;Exploring **System Design**, **DevOps**, and **Cloud Architecture**  
+💼 &nbsp;Actively looking for **Full Stack / Backend Developer** roles  
+📬 &nbsp;[Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://er-swappy.vercel.app/) &nbsp;|&nbsp; 📱 +91 9359248899
 
 <br clear="right"/>
 
