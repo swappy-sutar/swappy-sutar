@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Swapnil%20Sutar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1a1a2e&height=200&section=header&text=Swapnil%20Sutar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%90;System+design+%F0%9F%A7%A0;API+Architect+%F0%9F%93%9A;Open+to+Opportunities+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -182,19 +182,19 @@ const swapnil = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swappy-sutar&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" width="45%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="45%" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swappy-sutar&theme=tokyo-night&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swappy-sutar&bg_color=1a1b27&color=628fdb&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -216,7 +216,7 @@ const swapnil = {
 
 <div align="center">
 
-<img src="https://github.com/swappy-sutar/swappy-sutar/blob/main/github-user-contribution%20(1).svg?" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/swappy-sutar/swappy-sutar/main/github-user-contribution%20(1).svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -224,7 +224,7 @@ const swapnil = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6e40c9&height=100&section=footer" width="100%"/>
 
 <sub>⭐ If you find my work interesting, consider starring my repos!</sub>
 
