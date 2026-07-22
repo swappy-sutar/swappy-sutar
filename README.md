@@ -30,8 +30,8 @@
 const swapnil: Developer = {
   name      : "Swapnil Sutar",
   title     : "Full Stack & Backend Developer",
-  location  : "Maharashtra, India 🇮🇳",
-  languages : ["JavaScript", "TypeScript", "Python", "Solidity"],
+  location  : "Pune, Maharashtra, India 🇮🇳",
+  languages : ["JavaScript", "TypeScript", "Solidity"],
   frontend  : ["React.js", "TailwindCSS", "Redux"],
   backend   : ["Node.js", "Express.js", "NestJS", "REST APIs"],
   databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
