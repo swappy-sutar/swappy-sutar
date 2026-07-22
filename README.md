@@ -1,199 +1,231 @@
-<h1 align="center">Hi , I'm Swapnil Sutar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Backend+Developer;Blockchain+Developer;Always+learning+new+things"></a>
-</p>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Swapnil%20Sutar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=swappy-sutar&label=Profile%20views&color=0047AB&style=plastic?" alt="swappy-sutar" height=25px, width=160px/> 
-</p>
+</div>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div align="center">
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
 
-<br><br>
- 
-- :technologist: I specialize in `Backend Development`, `Full Stack Development`, and `Smart Contracts Development`.  
-- :computer: I have experience working with `Solidity`, `Node.js`,`React.js`, `Web3.js`, `Ethers.js`, `Hardhat`, `Truffle`, and `Ethereum Blockchain`.  
-- :student: I’m continuously learning `Blockchain Development`, `Web Development`.
-- :nerd_face: Passionate about `learning new technologies` and `building innovative projects`.  
-- :thinking: I’m currently open for `job opportunities` in `Blockchain` and `Full Stack Development`.  
-- :boom: You can visit [MY WEBSITE](https://er-swappy.vercel.app/).  
-- :email: Reach me at [Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com).  
-- :phone: Contact me at `+91 9359248899`.  
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=swappy-sutar&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://er-swappy.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6E40C9?style=for-the-badge" alt="Portfolio"/>
+</a>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:sutarswapnil322@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/swappy-sutar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+919359248899"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/swappy-sutar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/swappy_sutar"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://soliditylang.org/" target="_blank"> 
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%2300599C.svg?style=plastic&logo=solidity&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px> </picture> Development  
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white">
-  </a>
-</p>
-
-### ⚙️ Database
- <p align="center">
-  &emsp;
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/></a>
-
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px> </picture> Software & Tools
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Ganache" src="https://img.shields.io/badge/Ganache-%23D96429.svg?style=plastic&logo=ganache&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-%23F5C000.svg?style=plastic&logo=hardhat&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Truffle-%23463AFF.svg?style=plastic&logo=truffle&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%23F16822.svg?style=plastic&logo=web3.js&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Ethers.js" src="https://img.shields.io/badge/Ethers.js-%23443A63.svg?style=plastic&logo=ethers.js&logoColor=white"></a>
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px> </picture> IDEs
-
-<p align="center">
-  &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="https://remix.ethereum.org/"><img alt="Remix IDE" src="https://img.shields.io/badge/Remix%20IDE-%2398268D.svg?style=plastic&logo=remix&logoColor=white" /></a>
-</p>
-
-<br> 
+</div>
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+## 🧑‍💻 About Me
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px"/>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+```typescript
+const swapnil = {
+  name: "Swapnil Sutar",
+  role: "Full Stack & Backend Developer",
+  location: "India 🇮🇳",
+  stack: ["Node.js", "React.js", "Express.js", "MongoDB"],
+  currentlyLearning: ["System Design", "DevOps", "Web3"],
+  openTo: "Full Stack & Backend Opportunities",
+  contact: "Sutarswapnil322@gmail.com",
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
 
-----	
+- 🚀 I specialize in **Backend Development** & **Full Stack Development**
+- 💡 Experienced with **Node.js**, **React.js**, **MongoDB**, **Express.js**
+- 🔗 Also skilled in **Blockchain/Web3** — Solidity, Hardhat, Web3.js
+- 🌱 Currently exploring **System Design**, **DevOps**, and **Cloud**
+- 💼 Open for **job opportunities** in Full Stack & Backend Development
+- 📧 Reach me at [Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com)
+- 📱 **+91 9359248899** &nbsp;|&nbsp; 🌐 [My Portfolio](https://er-swappy.vercel.app/)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swappy-sutar&theme=tokyonight_duo" alt="swappy-sutar" /></p>
+<br clear="right"/>
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+---
 
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="swappy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swappy-sutar&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="swappy-sutar" height="230px"/>
-<br/>
+## 🤝 Connect With Me
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<div align="center">
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutarswapnil322@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swappy-sutar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swappy-sutar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swappy_sutar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919359248899)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://er-swappy.vercel.app/)
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/swappy-sutar/D-voting">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=D-voting&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/swappy-sutar/CompuTech-Academy">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=CompuTech-Academy&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	   <a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=MessageHub-Realtime_Chat_Application_MERN&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/swappy-sutar/Task-Management-System-Backend">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Task-Management-System-Backend&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/swappy-sutar/Realtime-Device-track">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Realtime-Device-track&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/swappy-sutar/Mini_project_JavaScript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Mini_project_JavaScript&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/swappy-sutar/Solidity_journey2024">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Solidity_journey2024&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/swappy-sutar/swappy-sutar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=swappy-sutar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-     <a href="https://github.com/swappy-sutar/Hospital-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Hospital-Management-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
 </div>
-</details>
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/swappy-sutar/swappy-sutar/blob/main/github-user-contribution%20(1).svg?" alt = "Snake Game"/>
-</p>
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-2370ED?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+### 🌐 Frontend
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Runtime
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & ORM
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge&logo=mongoose&logoColor=white)
+
+</div>
+
+### ⛓️ Blockchain & Web3
+
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-443A63?style=for-the-badge&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F5C000?style=for-the-badge&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-463AFF?style=for-the-badge&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-D96429?style=for-the-badge&logoColor=white)
+
+</div>
+
+### 🧰 Tools & DevOps
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-98268D?style=for-the-badge&logo=remix&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=MessageHub-Realtime_Chat_Application_MERN&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/swappy-sutar/Task-Management-System-Backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Task-Management-System-Backend&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/swappy-sutar/Realtime-Device-track">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Realtime-Device-track&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/swappy-sutar/Hospital-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=Hospital-Management-System&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/swappy-sutar/CompuTech-Academy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=CompuTech-Academy&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/swappy-sutar/D-voting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swappy-sutar&repo=D-voting&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swappy-sutar&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="GitHub Stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" width="45%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swappy-sutar&theme=tokyo-night&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote" width="80%"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/swappy-sutar/swappy-sutar/blob/main/github-user-contribution%20(1).svg?" alt="Snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⭐ If you find my work interesting, consider starring my repos!</sub>
+
+</div>
