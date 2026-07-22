@@ -181,14 +181,16 @@ const swapnil = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swappy-sutar&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=swappy-sutar&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="45%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swappy-sutar&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swappy-sutar&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swappy-sutar&theme=tokyonight" width="32%" alt="Productive Time"/>
 
 </div>
 
