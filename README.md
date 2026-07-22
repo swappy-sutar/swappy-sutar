@@ -178,6 +178,16 @@ const swapnil = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/swappy-sutar/CompuTech-Academy">CompuTech Academy</a></h3>
+      <p>Online learning platform for computer science courses with video content and quizzes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">MessageHub</a></h3>
       <p>Real-time chat application built with the MERN stack and Socket.io for instant messaging.</p>
       <p>
@@ -187,6 +197,8 @@ const swapnil = {
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✅ <a href="https://github.com/swappy-sutar/Task-Management-System-Backend">Task Management System</a></h3>
       <p>Robust backend REST API for task management with auth, role-based access, and full CRUD.</p>
@@ -197,8 +209,6 @@ const swapnil = {
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📍 <a href="https://github.com/swappy-sutar/Realtime-Device-track">Realtime Device Tracker</a></h3>
       <p>Live GPS device tracking on an interactive map using Socket.io and Leaflet.js.</p>
@@ -209,6 +219,8 @@ const swapnil = {
         <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/swappy-sutar/Hospital-Management-System">Hospital Management System</a></h3>
       <p>Full-featured hospital management system with patient records, appointments, and billing.</p>
@@ -217,18 +229,6 @@ const swapnil = {
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/swappy-sutar/CompuTech-Academy">CompuTech Academy</a></h3>
-      <p>Online learning platform for computer science courses with video content and quizzes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
