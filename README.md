@@ -155,6 +155,29 @@ const swapnil = {
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/swappy-sutar/Disciplin-app">Disciplin App</a></h3>
+      <p>Premium personal productivity dashboard & job application tracker — manage habits, goals, learning paths, and career search in one place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/swappy-sutar/Novablog-app">NovaBlog App</a></h3>
+      <p>High-performance blogging platform with decoupled architecture — React/Vite frontend, NestJS backend, Prisma ORM, Redis caching, and BullMQ email queues.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">MessageHub</a></h3>
       <p>Real-time chat application built with the MERN stack and Socket.io for instant messaging.</p>
       <p>
