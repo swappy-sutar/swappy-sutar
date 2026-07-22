@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=swappy-sutar&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://er-swappy.vercel.app/">
+<a href="https://er-swapppy.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6E40C9?style=for-the-badge" alt="Portfolio"/>
 </a>
 
@@ -24,28 +24,33 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px"/>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"/>
 
 ```typescript
-const swapnil = {
-  name: "Swapnil Sutar",
-  role: "Full Stack & Backend Developer",
-  location: "India 🇮🇳",
-  stack: ["Node.js", "React.js", "Express.js", "MongoDB"],
-  currentlyLearning: ["System Design", "DevOps", "Web3"],
-  openTo: "Full Stack & Backend Opportunities",
-  contact: "Sutarswapnil322@gmail.com",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+const swapnil: Developer = {
+  name      : "Swapnil Sutar",
+  title     : "Full Stack & Backend Developer",
+  location  : "Maharashtra, India 🇮🇳",
+  languages : ["JavaScript", "TypeScript", "Python", "Solidity"],
+  frontend  : ["React.js", "TailwindCSS", "Redux"],
+  backend   : ["Node.js", "Express.js", "NestJS", "REST APIs"],
+  databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  tools     : ["Docker", "Git", "Prisma", "Socket.io"],
+  learning  : ["System Design", "DevOps", "AWS", "Microservices"],
+  openTo    : "Full Stack & Backend Opportunities 🚀",
+  passion   : "Building scalable products that solve real problems",
+  funFact   : "I debug with console.log — and I own it 😄",
 };
 ```
 
-- 🚀 I specialize in **Backend Development** & **Full Stack Development**
-- 💡 Experienced with **Node.js**, **React.js**, **MongoDB**, **Express.js**
-- 🔗 Also skilled in **Blockchain/Web3** — Solidity, Hardhat, Web3.js
-- 🌱 Currently exploring **System Design**, **DevOps**, and **Cloud**
-- 💼 Open for **job opportunities** in Full Stack & Backend Development
-- 📧 Reach me at [Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com)
-- 📱 **+91 9359248899** &nbsp;|&nbsp; 🌐 [My Portfolio](https://er-swappy.vercel.app/)
+<br/>
+
+🚀 &nbsp;Specialized in **scalable backend systems** & full-stack web apps  
+⚡ &nbsp;Built apps with **real-time features** using Socket.io & WebSockets  
+⛓️ &nbsp;Hands-on with **Blockchain/Web3** — Solidity, Hardhat, Ethers.js  
+☁️ &nbsp;Exploring **System Design**, **DevOps**, and **Cloud Architecture**  
+💼 &nbsp;Actively looking for **Full Stack / Backend Developer** roles  
+📬 &nbsp;[Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://er-swapppy.vercel.app/) &nbsp;|&nbsp; 📱 +91 9359248899
 
 <br clear="right"/>
 
@@ -60,7 +65,7 @@ const swapnil = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swappy-sutar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swappy_sutar)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919359248899)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://er-swappy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://er-swapppy.vercel.app/)
 
 </div>
 
@@ -251,15 +256,13 @@ const swapnil = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=swappy-sutar&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" width="49%" alt="GitHub Stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swappy-sutar&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swappy-sutar&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swappy-sutar&theme=tokyonight" width="32%" alt="Productive Time"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" width="50%" alt="Top Languages"/>
 
 </div>
 
