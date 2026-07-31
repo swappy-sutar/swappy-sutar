@@ -24,7 +24,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"/>
+</p>
 
 ```typescript
 const swapnil: Developer = {
@@ -52,7 +54,7 @@ const swapnil: Developer = {
 💼 &nbsp;Actively looking for **Full Stack / Backend Developer** roles  
 📬 &nbsp;[Sutarswapnil322@gmail.com](mailto:Sutarswapnil322@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://er-swapppy.vercel.app/) &nbsp;|&nbsp; 📱 +91 9359248899
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -157,97 +159,104 @@ const swapnil: Developer = {
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/swappy-sutar/Disciplin-app">Disciplin App</a></h3>
-      <p>Premium personal productivity dashboard & job application tracker — manage habits, goals, learning paths, and career search in one place.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✍️ <a href="https://github.com/swappy-sutar/Novablog-app">NovaBlog App</a></h3>
-      <p>High-performance blogging platform with decoupled architecture — React/Vite frontend, NestJS backend, Prisma ORM, Redis caching, and BullMQ email queues.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/swappy-sutar/CompuTech-Academy">CompuTech Academy</a></h3>
-      <p>Online learning platform for computer science courses with video content and quizzes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN">MessageHub</a></h3>
-      <p>Real-time chat application built with the MERN stack and Socket.io for instant messaging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/swappy-sutar/Task-Management-System-Backend">Task Management System</a></h3>
-      <p>Robust backend REST API for task management with auth, role-based access, and full CRUD.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📍 <a href="https://github.com/swappy-sutar/Realtime-Device-track">Realtime Device Tracker</a></h3>
-      <p>Live GPS device tracking on an interactive map using Socket.io and Leaflet.js.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/swappy-sutar/Hospital-Management-System">Hospital Management System</a></h3>
-      <p>Full-featured hospital management system with patient records, appointments, and billing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗳️ <a href="https://github.com/swappy-sutar/D-voting">D-Voting (Blockchain)</a></h3>
-      <p>Decentralized voting system on Ethereum with transparent, tamper-proof ballot casting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Hardhat-F5C000?style=flat-square&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+### 🎯 [Disciplin App](https://github.com/swappy-sutar/Disciplin-app)
+> Premium personal productivity dashboard & job application tracker — manage habits, goals, learning paths, and career search in one place.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+### ✍️ [NovaBlog App](https://github.com/swappy-sutar/Novablog-app)
+> High-performance blogging platform with decoupled architecture — React/Vite frontend, NestJS backend, Prisma ORM, Redis caching, and BullMQ email queues.
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+
+---
+
+### 🎓 [CompuTech Academy](https://github.com/swappy-sutar/CompuTech-Academy)
+> Online learning platform for computer science courses with video content and quizzes.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+### 💬 [MessageHub](https://github.com/swappy-sutar/MessageHub-Realtime_Chat_Application_MERN)
+> Real-time chat application built with the MERN stack and Socket.io for instant messaging.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### ✅ [Task Management System](https://github.com/swappy-sutar/Task-Management-System-Backend)
+> Robust backend REST API for task management with auth, role-based access, and full CRUD.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+---
+
+### 📍 [Realtime Device Tracker](https://github.com/swappy-sutar/Realtime-Device-track)
+> Live GPS device tracking on an interactive map using Socket.io and Leaflet.js.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+</p>
+
+---
+
+### 🏥 [Hospital Management System](https://github.com/swappy-sutar/Hospital-Management-System)
+> Full-featured hospital management system with patient records, appointments, and billing.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+
+---
+
+### 🗳️ [D-Voting (Blockchain)](https://github.com/swappy-sutar/D-voting)
+> Decentralized voting system on Ethereum with transparent, tamper-proof ballot casting.
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hardhat-F5C000?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
@@ -255,14 +264,14 @@ const swapnil: Developer = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=swappy-sutar&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=swappy-sutar&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" height="180" alt="GitHub Stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" height="180" alt="Top Languages"/>
 
 </div>
 
