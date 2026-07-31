@@ -209,22 +209,12 @@ const swapnil: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=swappy-sutar&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" height="180" alt="GitHub Stats"/>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=swappy-sutar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" height="180" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-sutar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swappy-sutar&bg_color=1a1b27&color=628fdb&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swappy-sutar&bg_color=1a1b27&color=628fdb&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
