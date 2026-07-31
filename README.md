@@ -231,13 +231,9 @@ const swapnil: Developer = {
 
 ## 💬 Quote of the Day
 
-<div align="center">
-
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote" width="100%"/>
 </a>
-
-</div>
 
 ---
 
